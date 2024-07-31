@@ -1,4 +1,4 @@
-package fr.diginamic.jdbc;
+package fr.diginamic.jdbc.entites;
 
 public class Fournisseur {
 	private int id;

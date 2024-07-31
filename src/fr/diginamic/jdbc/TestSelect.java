@@ -6,6 +6,8 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
 
+import fr.diginamic.jdbc.entites.Fournisseur;
+
 public class TestSelect {
 
 	public static void main(String[] args) throws SQLException {
